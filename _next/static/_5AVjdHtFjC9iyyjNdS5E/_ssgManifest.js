@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Faccelerated-life-testing\u002F[testingName]","\u002Fcase-studies\u002F[caseStudyName]","\u002Froadmap\u002Faccelerated-life-testing\u002F[pathwayName]","\u002Froadmap\u002Fderisking-site-trials\u002F[pathwayName]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
